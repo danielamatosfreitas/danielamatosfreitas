@@ -7,7 +7,7 @@ Construo ferramentas que transformam regras de gestão de pessoas em números qu
 **Projetos**
 
 - [Calculadora escala 6x1](https://github.com/danielamatosfreitas/calculadora-escala-6x1): mostra o impacto do fim da escala 6x1 na equipe e compara contratar, pagar hora extra e ajustar o horário. JavaScript, com testes automáticos. [Versão no ar](https://capitalhumanointelligence.com/escala-6x1).
-- Gerador e publicador de conteúdo para redes sociais (em preparação): Next.js, Python e integração com LinkedIn, Instagram e Facebook.
+- [Personal Brand Studio](https://github.com/danielamatosfreitas/personal-brand-studio): gera cards, carrosséis e stories com identidade visual e agenda publicações no LinkedIn, Instagram e Facebook. Next.js, Python (FastAPI), PostgreSQL e testes automáticos.
 - Diagnóstico financeiro para pequenas empresas (em preparação): Python, com testes e trava de privacidade antes do uso de IA.
 
 [LinkedIn](https://www.linkedin.com/in/danielamatosfreitas) · [Site](https://capitalhumanointelligence.com)
