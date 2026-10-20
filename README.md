@@ -17,4 +17,8 @@ Construo ferramentas que transformam regras de gestão de pessoas em números qu
 
 **English.** People and Culture with data and AI. Over 10 years across people management, financial processes and consulting for small and medium businesses. Founder of Capital Humano Intelligence, based in Bahia, Brazil. I build tools that turn people management rules into numbers business owners can act on, using AI with method: define the problem, write test cases from real situations and publish only what passes review.
 
-- [Turnover in a retail chain](https://github.com/danielamatosfreitas/people-analytics-rotatividade): where and when people leave, early exits, absences before leaving, cost in three scenarios and an explainable index by area and team leader, with fictitious data. Python, pandas, plotly and automated tests. [Live report](https://danielamatosfreitas.github.io/people-analytics-rotatividade/).
+**Projects**
+
+- [6x1 schedule calculator](https://github.com/danielamatosfreitas/calculadora-escala-6x1): shows the impact of the end of the 6x1 schedule on the team and compares hiring, paying overtime and adjusting working hours. JavaScript, with automated tests. [Live version](https://capitalhumanointelligence.com/escala-6x1).
+- [Personal Brand Studio](https://github.com/danielamatosfreitas/personal-brand-studio): generates cards, carousels and stories with visual identity and schedules posts on LinkedIn, Instagram and Facebook. Next.js, Python (FastAPI), PostgreSQL and automated tests.
+- [Turnover in a retail chain](https://github.com/danielamatosfreitas/people-analytics-rotatividade): analyzes where and when people leave, early exits, absences before leaving, cost in three scenarios and an explainable index by area and team leader, with fictitious data. Python, pandas, plotly and automated tests. [Live report](https://danielamatosfreitas.github.io/people-analytics-rotatividade/).
