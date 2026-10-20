@@ -8,6 +8,7 @@ Construo ferramentas que transformam regras de gestão de pessoas em números qu
 
 - [Calculadora escala 6x1](https://github.com/danielamatosfreitas/calculadora-escala-6x1): mostra o impacto do fim da escala 6x1 na equipe e compara contratar, pagar hora extra e ajustar o horário. JavaScript, com testes automáticos. [Versão no ar](https://capitalhumanointelligence.com/escala-6x1).
 - [Personal Brand Studio](https://github.com/danielamatosfreitas/personal-brand-studio): gera cards, carrosséis e stories com identidade visual e agenda publicações no LinkedIn, Instagram e Facebook. Next.js, Python (FastAPI), PostgreSQL e testes automáticos.
+- [Rotatividade em uma rede de lojas](https://github.com/danielamatosfreitas/people-analytics-rotatividade): analisa onde e quando as pessoas saem, as saídas na experiência, as faltas antes da saída, o custo em três cenários e um índice explicável por área e líder, com dados fictícios. Python, pandas, plotly e testes automáticos. [Relatório no ar](https://danielamatosfreitas.github.io/people-analytics-rotatividade/).
 - Diagnóstico financeiro para pequenas empresas (em preparação): Python, com testes e trava de privacidade antes do uso de IA.
 
 [LinkedIn](https://www.linkedin.com/in/danielamatosfreitas) · [Site](https://capitalhumanointelligence.com)
@@ -15,3 +16,5 @@ Construo ferramentas que transformam regras de gestão de pessoas em números qu
 ---
 
 **English.** People and Culture with data and AI. Over 10 years across people management, financial processes and consulting for small and medium businesses. Founder of Capital Humano Intelligence, based in Bahia, Brazil. I build tools that turn people management rules into numbers business owners can act on, using AI with method: define the problem, write test cases from real situations and publish only what passes review.
+
+- [Turnover in a retail chain](https://github.com/danielamatosfreitas/people-analytics-rotatividade): where and when people leave, early exits, absences before leaving, cost in three scenarios and an explainable index by area and team leader, with fictitious data. Python, pandas, plotly and automated tests. [Live report](https://danielamatosfreitas.github.io/people-analytics-rotatividade/).
